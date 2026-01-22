@@ -1,8 +1,6 @@
 <?php
 
 require_once "book.php";
-require_once "genre.php"; //probar si es necesario
-require_once "genre.php";
 
 class Library{
     private string $name;
